@@ -1,0 +1,17 @@
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/CalculatorTests.deps.json
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/CalculatorTests.runtimeconfig.json
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/CalculatorTests.runtimeconfig.dev.json
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/CalculatorTests.dll
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/CalculatorTests.pdb
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/McKinsey.Calculator.dll
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/bin/Debug/netcoreapp2.2/McKinsey.Calculator.pdb
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.csprojAssemblyReference.cache
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.csproj.CoreCompileInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.AssemblyInfoInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.AssemblyInfo.cs
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.csproj.CopyComplete
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.dll
+/Users/rsreshmi/RiderProjects/Sum/CalculatorTests/obj/Debug/netcoreapp2.2/CalculatorTests.pdb

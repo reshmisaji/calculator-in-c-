@@ -1,0 +1,11 @@
+/Users/rsreshmi/RiderProjects/Sum/Calculator/bin/Debug/netcoreapp2.1/McKinsey.Calculator.deps.json
+/Users/rsreshmi/RiderProjects/Sum/Calculator/bin/Debug/netcoreapp2.1/McKinsey.Calculator.runtimeconfig.json
+/Users/rsreshmi/RiderProjects/Sum/Calculator/bin/Debug/netcoreapp2.1/McKinsey.Calculator.runtimeconfig.dev.json
+/Users/rsreshmi/RiderProjects/Sum/Calculator/bin/Debug/netcoreapp2.1/McKinsey.Calculator.dll
+/Users/rsreshmi/RiderProjects/Sum/Calculator/bin/Debug/netcoreapp2.1/McKinsey.Calculator.pdb
+/Users/rsreshmi/RiderProjects/Sum/Calculator/obj/Debug/netcoreapp2.1/Calculator.csprojAssemblyReference.cache
+/Users/rsreshmi/RiderProjects/Sum/Calculator/obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfoInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfo.cs
+/Users/rsreshmi/RiderProjects/Sum/Calculator/obj/Debug/netcoreapp2.1/McKinsey.Calculator.dll
+/Users/rsreshmi/RiderProjects/Sum/Calculator/obj/Debug/netcoreapp2.1/McKinsey.Calculator.pdb
